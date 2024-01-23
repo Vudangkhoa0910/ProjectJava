@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customers>
+    <customer>
+        <id>9</id>
+        <cc>12032</cc>
+        <name>manh</name>
+        <checkin>00:00</checkin>
+        <checkout>05:05</checkout>
+        <roomType>Phòng Đôi</roomType>
+        <price>132</price>
+    </customer>
+    <customer>
+        <id>10</id>
+        <cc>2343</cc>
+        <name>ABCD</name>
+        <checkin>00:00</checkin>
+        <checkout>05:05</checkout>
+        <roomType>Phòng Đôi</roomType>
+        <price>132</price>
+    </customer>
+    <customer>
+        <id>10</id>
+        <cc>0</cc>
+        <name>Dai Bang</name>
+        <checkin>00:00</checkin>
+        <checkout>05:05</checkout>
+        <roomType>Phòng Đôi</roomType>
+        <price>132</price>
+    </customer>
+    <customer>
+        <id>5</id>
+        <cc>123</cc>
+        <name>Vu Dang Khoa</name>
+        <checkin>02:00</checkin>
+        <checkout>04:00</checkout>
+        <roomType>Phòng Đôi</roomType>
+        <price>99</price>
+    </customer>
+    <customer>
+        <id>5</id>
+        <cc>125</cc>
+        <name>Khoa1</name>
+        <checkin>03:00</checkin>
+        <checkout>05:00</checkout>
+        <roomType>Phòng Đơn</roomType>
+        <price>100</price>
+    </customer>
+    <customer>
+        <id>6</id>
+        <cc>876</cc>
+        <name>Khoa2</name>
+        <checkin>04:00</checkin>
+        <checkout>07:00</checkout>
+        <roomType>Phòng Đơn</roomType>
+        <price>99</price>
+    </customer>
+    <customer>
+        <id>7</id>
+        <cc>125</cc>
+        <name>Khoa1</name>
+        <checkin>03:00</checkin>
+        <checkout>05:00</checkout>
+        <roomType>Phòng Đơn</roomType>
+        <price>100</price>
+    </customer>
+</customers>
